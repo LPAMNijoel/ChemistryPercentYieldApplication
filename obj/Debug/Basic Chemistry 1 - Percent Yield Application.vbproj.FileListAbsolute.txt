@@ -1,0 +1,12 @@
+C:\Users\Niikky\AppData\Local\Temporary Projects\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.exe.config
+C:\Users\Niikky\Documents\Visual Studio 2012\Projects\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.exe.config
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.exe.config
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.exe
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.pdb
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\bin\Debug\Basic Chemistry 1 - Percent Yield Application.xml
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic_Chemistry_1___Percent_Yield_Application.Form1.resources
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic_Chemistry_1___Percent_Yield_Application.Resources.resources
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic Chemistry 1 - Percent Yield Application.vbproj.GenerateResource.Cache
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic Chemistry 1 - Percent Yield Application.exe
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic Chemistry 1 - Percent Yield Application.xml
+C:\Users\JoeyCPuno\Desktop\Basic Chemistry 1 - Percent Yield Application\Basic Chemistry 1 - Percent Yield Application\obj\Debug\Basic Chemistry 1 - Percent Yield Application.pdb
