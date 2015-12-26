@@ -1,0 +1,11 @@
+﻿Input(Data)
+-------------------------------------
+Weight of the beaker: 4
+Weight of the beaker with product: 6
+Starting mass of reactant 1: 3.60333333333333
+Starting mass of reactant 2: 6.74653098982424
+output (Data)
+-------------------------------------
+Actual Mass: 2
+Theoretical Mass: 3.60333333333333
+Percent Yield: 55.5041628122109
